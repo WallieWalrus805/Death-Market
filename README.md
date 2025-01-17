@@ -1,3 +1,4 @@
 # Death-Market
-Databases for Death Market Python app
-This database has been abandoned and may be renamed. Further commits are temporary unless otherwise stated.
+Databases for Death Market Auction House
+
+This repository will become active in the next few months so stay tuned for updates!
